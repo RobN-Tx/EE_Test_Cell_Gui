@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://ethosenergygroup.sharepoint.com/sites/ALT-Eng-US/_api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+<id>b7a2783d-69fb-4e4f-a034-82ed81d6e2d2</id>
+<title />
+<updated>2019-10-09T14:34:37Z</updated>
+<entry m:etag="&quot;17&quot;">
+<id>b6d852e9-b0c1-4258-8765-595bcc3c6600</id>
+<category term="SP.Data.Solar_x0020_Test_x0020_DataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+<link rel="edit" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/FirstUniqueAncestorSecurableObject" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/RoleAssignments" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/AttachmentFiles" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/ContentType" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/GetDlpPolicyTip" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/FieldValuesAsHtml" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/FieldValuesAsText" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/FieldValuesForEdit" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/File" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/Folder" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/LikedByInformation" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/ParentList" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/Properties" />
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'e105a44f-c0cd-41cc-b229-4ecb8cda5614')/Items(1)/Versions" />
+<title />
+<updated>2019-10-09T14:34:37Z</updated>
+<author>
+<name />
+</author>
+<content type="application/xml">
+<m:properties>
+<d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+<d:Id m:type="Edm.Int32">1</d:Id>
+<d:ServerRedirectedEmbedUri m:null="true" />
+<d:ServerRedirectedEmbedUrl>
+</d:ServerRedirectedEmbedUrl>
+<d:ContentTypeId>0x0101004F5FB0781BC7944F9FFFF917DEAAA6D0</d:ContentTypeId>
+<d:ComplianceAssetId m:null="true" />
+<d:Title m:null="true" />
+<d:UnitType>T4501S</d:UnitType>
+<d:UnitFamily>C40</d:UnitFamily>
+<d:Solonox m:type="Edm.Boolean">true</d:Solonox>
+<d:GPSerialNumber>1853T</d:GPSerialNumber>
+<d:GPWorkOrder>812345</d:GPWorkOrder>
+<d:PT_x0020_Serial_x0020_Number>1234</d:PT_x0020_Serial_x0020_Number>
+<d:PTWorkOrder>823456</d:PTWorkOrder>
+<d:DataType>Bulk data</d:DataType>
+<d:RGBSN>RGB001</d:RGBSN>
+<d:RGBWO>801234</d:RGBWO>
+<d:RGBPN>WCS-CED-1840</d:RGBPN>
+<d:Customer>ERS-Cat</d:Customer>
+<d:GPPN>WC-4701S-G</d:GPPN>
+<d:ToolVersion>3.1</d:ToolVersion>
+<d:ID m:type="Edm.Int32">1</d:ID>
+<d:Created m:type="Edm.DateTime">2019-10-08T17:54:44Z</d:Created>
+<d:AuthorId m:type="Edm.Int32">77</d:AuthorId>
+<d:Modified m:type="Edm.DateTime">2019-10-08T17:58:35Z</d:Modified>
+<d:EditorId m:type="Edm.Int32">77</d:EditorId>
+<d:OData__CopySource m:null="true" />
+<d:CheckoutUserId m:null="true" />
+<d:OData__UIVersionString>16.0</d:OData__UIVersionString>
+<d:GUID m:type="Edm.Guid">2173de61-d591-47d5-a422-d81d1926efc9</d:GUID>
+</m:properties>
+</content>
+</entry>
+</feed>
