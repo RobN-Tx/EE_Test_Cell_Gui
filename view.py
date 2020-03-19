@@ -65,7 +65,8 @@ class ResultEvent(wx.PyEvent):
 
 ########################################################################
 class WorkerThread(Thread):
-    """Worker Thread Class."""
+    """Worker Thread Class
+    this has a case of premature death occaisionally."""
  
     #----------------------------------------------------------------------
     def __init__(self, wxObject, trigger):
